@@ -1,4 +1,4 @@
 # EmployeeManager-hibernate
-Java, MySQL
-tehnologije: hibernate, swing
+Java, MySQL..
+Tehnologije hibernate, swing
 
