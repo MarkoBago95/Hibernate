@@ -1,2 +1,4 @@
 # EmployeeManager-hibernate
-swing, hibernate, employee manager ,add, edit, delete employee, 
+Java, MySQL
+tehnologije: hibernate, swing
+
