@@ -1,2 +1,0 @@
-# EmployeeManager-hibernate
-
